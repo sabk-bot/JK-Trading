@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jk-trading-stock.vercel.app/sitemap.xml
-
